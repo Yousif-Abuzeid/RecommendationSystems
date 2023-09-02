@@ -2,30 +2,26 @@
 
 ## songsRecommendationSystem
 
-- `contentbasedRecommenderUsingTfidfandsimilarity.ipynb`: This notebook implements a content-based recommendation system using TF-IDF and similarity metrics.
+- `cosineSimilarity.ipynb`: This notebook implements a content-based recommendation system using TF-IDF and similarity metrics.
 
-- `collaborativeFilteringRecommender.ipynb`: This notebook demonstrates a collaborative filtering recommendation system.
+- `collaborative_music.ipynb`: This notebook demonstrates a collaborative filtering recommendation system.
 
-- `HybridRecommender.py`: A Python script that attempts hybrid recommendations.
+- `HybridRecommender.py`: A Python script that contains both algorithms.
 
 ## moviesRecommendationSystem
 
-- `contentbasedRecommenderUsingTfidfandsimilarity.ipynb`: Similar to the songs system, this notebook implements content-based recommendation for movies.
+- `contentbased.ipynb`: Similar to the songs system, this notebook implements content-based recommendation for movies using machine learning models.
 
-- `contentbasedRecommenderUsingMachineLearningModel.ipynb`: A different approach using machine learning models.
+- `Movie_Cosine_similartiy.ipynb`: A different approach using TF-IDF and cosine similarity.
 
-- `collaborativeFilteringRecommender.ipynb`: Collaborative filtering for movies.
+- `collab_Movies.ipynb`: Collaborative filtering for movies.
 
-- `HybridRecommender.py`: Python script for hybrid movie recommendations.
+
 
 ### bestModel
 
 This folder contains the best performing model files.
+Gradient boosting 
+40% accuracy
 
-### Data
 
-Place your data files here.
-
-## About
-
-This repository contains implementations of recommendation systems for songs and movies.
